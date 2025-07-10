@@ -1,28 +1,42 @@
-# Public Trust and Institutional Duties at ACLU Northern California
+# Today, I Mailed Substack Inc. a Formal Legal Notice
 
-#### How Epistemic and Fiduciary Failures Undermine Accessibility
+#### Fiduciary Breaches, Contractual Breaches, Intentional Interference, and Potential Class-Action Litigation
 
-![alt text](https://github.com/Peter-Kahl/Public-Trust-and-Institutional-Duties-at-ACLU-Northern-California/blob/main/ACLU_slumber.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Today-I-Mailed-Substack-Inc-a-Formal-Legal-Notice/blob/main/substack_tortious_silencing.jpg?raw=true)
 
 by Peter Kahl; independent scholar; published 9 July 2025
 
-### Abstract
-This essay critically evaluates the fiduciary, epistemic, and legal obligations of public-interest organisations, specifically examining the American Civil Liberties Union of Northern California’s (ACLU NorCal) policy of limiting case-intake communications exclusively to postal mail. Employing fiduciary theory—particularly Tamar Frankel’s scholarship—and my recent work, Directors’ Epistemic Duties and Fiduciary Openness (2025), the analysis highlights how such restrictive policies constitute explicit breaches of fiduciary duties (openness, fairness, transparency, good faith) and epistemic responsibilities (epistemic openness, epistemic justice). Furthermore, the essay argues that digital inaccessibility violates provisions of the Americans with Disabilities Act (ADA), systematically disadvantaging disabled individuals and other marginalised groups. Through critical analysis of ACLU NorCal’s explicit and implicit institutional commitments, it reveals contradictions between professed values and actual practices, undermining public trust, social cohesion, and democratic legitimacy. The essay concludes with explicit policy recommendations for enhancing digital, multilingual, and international accessibility, alongside governance reforms to ensure ongoing fiduciary and epistemic accountability.
+Today, I formally served Substack Inc. with a detailed Cease and Desist notice. In direct communications, Substack has explicitly confirmed its intentional and selective suppression of my scholarly content from indexing by external search engines, notably Google. This covert practice severely restricts visibility, citations, readership, and professional opportunities, deliberately interfering with my scholarly and economic interests.
 
-### Keywords
-fiduciary duties, epistemic duties, fiduciary theory, epistemic justice, epistemic openness, institutional accountability, transparency, ADA compliance, digital accessibility, restrictive communication, public trust, ACLU NorCal, accessibility barriers, ethical governance, epistemic harm, institutional responsibility, Tamar Frankel, Miranda Fricker, John Rawls, Americans with Disabilities Act, epistemic fiduciary obligations, epistemic exclusion, multilingual accessibility, social cohesion, democratic legitimacy
+Substack’s actions constitute not only intentional interference under California law but also breach explicit and implied contractual obligations set forth in Substack’s own Terms of Use. Substack explicitly promises authors control over their content, including freedom to publish openly and without mandatory monetisation or indexing restrictions. Substack’s selective suppression violates both these explicit commitments and the implied covenant of good faith and fair dealing inherent in every contractual agreement under California law.
+
+Moreover, Substack’s deliberate suppression breaches voluntarily assumed fiduciary obligations—not only toward individual authors but also toward the broader scholarly community, society at large, and the very integrity of open and democratic discourse. Such selective suppression breaches explicit obligations of transparency, fairness, good faith, impartiality, and fiduciary openness.
+
+I suspect that many other Substack authors, particularly those publishing scholarly or publicly accessible content without a paywall, may unknowingly be victims of similar covert indexing suppression. This systematic misconduct suggests grounds for potential class-action litigation to collectively pursue transparency, fiduciary accountability, contractual adherence, and comprehensive remedial measures.
+
+If you publish scholarly content on Substack, I urge you to verify your discoverability by searching Google using:
+
+```
+site:your-substack-name.substack.com
+```
+
+If your content is missing or severely limited in search results, you may have experienced similar suppression.
+
+Please share this post widely with colleagues, authors, lawyers, researchers, professors, and anyone committed to upholding scholarly openness, fiduciary accountability, and digital transparency.
 
 ---
 
-Correspondence regarding this work is welcome.
+The formal Cease and Desist notice (PDF) is available for download and citation:
 
-Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Public-Trust-and-Institutional-Duties-at-ACLU-Northern-California/master/Kahl_P_Public_Trust_and_Institutional_Duties_at_ACLU_Northern_California_9_July_2025.pdf)
+[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Today-I-Mailed-Substack-Inc-a-Formal-Legal-Notice/master/Substack_Cease_&_Desist_2025-07-09.pdf)
 
 Cite this work:
 
 ```
-Peter Kahl, ‘Public Trust and Institutional Duties at ACLU Northern California: How Epistemic and Fiduciary Failures Undermine Accessibility’ (2025) available at <https://github.com/Peter-Kahl/Public-Trust-and-Institutional-Duties-at-ACLU-Northern-California>
+Peter Kahl, ‘Today, I Mailed Substack Inc. a Formal Legal Notice: Fiduciary Breaches, Contractual Breaches, Intentional Interference, and Potential Class-Action Litigation’ (2025) available at <https://github.com/Peter-Kahl/Today-I-Mailed-Substack-Inc-a-Formal-Legal-Notice>
 ```
 ### Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
+
+### Keywords
+Substack, fiduciary duty, indexing suppression, SEO, epistemic justice, class-action lawsuit, intentional interference, platform accountability, scholarly publishing, academic freedom, transparency, coercive practices, digital rights, tortious interference, breach of contract, tortious act, contract law, tort law
